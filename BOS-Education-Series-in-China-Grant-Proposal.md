@@ -14,7 +14,7 @@ Live online for 4-5 weeks, 1-2 weekly classes. And at the end of the event, the 
 *	Chapter 2: Intro to BOS
 *	Chapter 3: Building EVM Contract BOS Components
 
-## Schedule breakdown
+### Schedule breakdown
 
 * Courses Publishing: 
 * Courses Online:
