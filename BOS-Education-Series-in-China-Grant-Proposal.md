@@ -48,7 +48,7 @@ From mid-August to the end of October, there will be approximately 1-2 online me
   * System Feedback: 10
   * Reach out: 5000+ views.
   * The open-source, reusable, upgradable educational content in Chinese
-2. Offline-events:
+2. Offline events:
   1. Counts: 3+
   2. Cities: 3+
 3. Participants
@@ -61,8 +61,7 @@ From mid-August to the end of October, there will be approximately 1-2 online me
   * Retention: 50%
 ## Budget Breakdown
 1. Courses: 2K
-  * Courses Publishing: 1K
-  * PR: 500
+  * Courses Publishing: 1.5K
   * After-school Demo prize: 500
 2. Offline events: 3K
   * Venue costs: 2K
