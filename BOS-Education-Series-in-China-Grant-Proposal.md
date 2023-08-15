@@ -16,18 +16,18 @@ Live online for 4-5 weeks, 1-2 weekly classes. And at the end of the event, the 
 
 ### Schedule breakdown
 
-* Courses Publishing: 
-* Courses Online:
-* PR:
-* Course Demo Awards:
+* Courses Publishing: Aug 21st - Sep21st
+* PR: Aug 30th - Sep21st
+* Courses Online: Sep 1st - Sep 21st 20:00 - 21:30 (Every Thursday & Sunday, 1~2hr)
+* Course Demo Awards: On Sep 23rd, 19:00-21:00
 
 ## Offline Events
 
 From mid-August to the end of October, there will be approximately 1-2 online meetups/workshops per month, It's currently in the planning stages.
 
 1. BOS tour in China@ShanHaiWu
-   * Location: 
-   * Time:
+   * Location: Beidahu
+   * Time: Aug 17th
 2. BOS meetup@SBW
    * Location: Shanghai
    * Time: during Shanghai Blockchain Week, detail time TBD
