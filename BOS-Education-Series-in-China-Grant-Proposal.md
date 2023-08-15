@@ -1,6 +1,6 @@
 # BOS Education Series in China
 
-W3F(Web3 Front-end Community) requests 6K $NEAR to fund BOS Education events consisting of:
+W3F(Web3 Front-end Community) requests 5K $NEAR to fund BOS Education events consisting of:
 - Online courses focusing on BOS in Chinese (contains front-end introductory courses)
 - about 3-5 offline workshops/meetups
 
@@ -60,10 +60,10 @@ From mid-August to the end of October, there will be approximately 1-2 online me
   * Developer onboarding: 100+
   * Retention: 50%
 ## Budget Breakdown
-1. Courses: 3K
-  * Courses Publishing: 1.5K
+1. Courses: 2K
+  * Courses Publishing: 1K
   * PR: 500
-  * After-school Demo prize: 1K
+  * After-school Demo prize: 500
 2. Offline events: 3K
   * Venue costs: 2K
   * Operation: 1K
